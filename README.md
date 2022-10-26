@@ -24,7 +24,7 @@ HTML stands for HyperText Markup Language, and "markdown" is a play on that, bei
 
 Take a look at [THIS VERY FILE!!](https://raw.githubusercontent.com/BJC-HCIS-2022/test/main/README.md) to see the markdown itself. 
 
-Here's Ada Lovelace:
+Here's Ada Lovelace (yes, daughter of that Byron):
 
 ![Ada Lovelace](https://github.com/BJC-HCIS-2022/test/blob/main/ava-lovelace.png)
 
