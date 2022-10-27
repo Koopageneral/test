@@ -1,5 +1,6 @@
 # Testing, and random stuff for the class
 This repository is for testing stuff and to put stuff that we can use in our work. An "md" file is something called MarkDown.
+You are currently reading README.md
 
 ## History lesson
 HTML stands for HyperText Markup Language, and "markdown" is a play on that, being a "language" that formats text, but in a simpler way than HTML.
@@ -21,6 +22,14 @@ HTML stands for HyperText Markup Language, and "markdown" is a play on that, bei
 ## Second biggest heading
 ### Next biggest heading
 ###### Smallest heading
+
+1. This
+2. is
+3. An
+4. Ordered list
+   - trying an unordered list, nested in an ordered list
+   - did it work?
+5. Okay cool
 
 Take a look at [THIS VERY FILE!!](https://raw.githubusercontent.com/BJC-HCIS-2022/test/main/README.md) to see the markdown itself. 
 
